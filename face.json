@@ -1,0 +1,21 @@
+{
+  {
+    "faces": [
+      {
+        "faceRectangle": {
+          "left": 393,
+          "top": 125,
+          "width": 281,
+          "height": 281
+        }
+      }
+    ],
+    "requestId": "942767ed-d5f5-490e-95ff-50b53dfc6bff",
+    "metadata": {
+      "height": 794,
+      "width": 1280,
+      "format": "Jpeg"
+    },
+    "modelVersion": "2021-05-01"
+  }
+}
